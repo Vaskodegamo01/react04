@@ -1,0 +1,12 @@
+.Country {
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    border: 1px solid #282c34;
+}
+.Name{
+    display: inline-block;
+}
+.Flag{
+    display: inline-block;
+}
