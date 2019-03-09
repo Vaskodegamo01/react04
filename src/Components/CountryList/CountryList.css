@@ -5,4 +5,8 @@
     width: 40%;
     margin: 10px;
     border: 1px solid #282c34;
+    overflow: scroll;
+    overflow-x: hidden;
+    height: 20em;
+    line-height: 2em;
 }
